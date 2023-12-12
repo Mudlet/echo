@@ -1,0 +1,6 @@
+{
+  "package": "echo",
+  "version": "1.0",
+  "author": "Mudlet",
+  "title": "A set of aliases to test triggers on the command line."
+}
